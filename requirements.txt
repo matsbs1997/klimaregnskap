@@ -7,4 +7,5 @@ fpdf
 requests
 beautifulsoup4
 rapidfuzz
+pandas
 
