@@ -6,5 +6,5 @@ pdfplumber
 fpdf
 requests
 beautifulsoup4
-
+rapidfuzz
 
